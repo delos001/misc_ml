@@ -1,4 +1,4 @@
-# This is from the Standfor Class using the NLTK Reuters data
+# This is from the Standford Class using the NLTK Reuters data
 
 
 - github solutions:
